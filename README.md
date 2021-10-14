@@ -1,4 +1,4 @@
-# Fifteen Puzzle Solver
+# Fifteen Puzzle Solver AI
 
 Using the A* algorithm to solve the fifteen puzzle.
 
